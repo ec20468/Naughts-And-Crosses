@@ -43,7 +43,20 @@ An interactive Tic-Tac-Toe game built with React, where two players can take tur
 This project was built to practice handling state management in React, and I also wanted to implement a simple game logic to improve my understanding of React hooks and component design.
 
 ### What I Set Out to Build
-The goal was to create a basic Tic-Tac-Toe game where two players could interact with a grid, making moves until there was a winner or a draw. Additionally, I wanted to implement features such as dynamic player names and real-time game status updates.
+I aimed to build a functional Tic-Tac-Toe game using React, focusing on applying core React concepts and software development principles. The project was designed to enhance my understanding of:
+
+  - **Component-based Architecture**: Breaking the game into reusable components like `Player`, `GameBoard`, and `Log` for better organization and maintainability.
+  
+  - **State Management**: Using React's `useState` to track the game’s state, including the active player, game board, and move history.
+  
+  - **Conditional Rendering**: Dynamically showing different components based on game state, such as displaying the winner or draw and allowing for game restarts.
+  
+  - **Event Handling**: Managing user interactions for turn-based gameplay, ensuring only valid moves were made.
+  
+  - **Game Logic**: Implementing win conditions and draw logic to end the game properly and determine the winner.
+
+  - **UI/UX Design**: Focusing on a clean, user-friendly interface that’s responsive across devices, making the game intuitive to play.
+
 
 ### Challenges
 One of the main challenges I encountered was managing the game board state and determining the active player after each move. I implemented a `deriveActivePlayer` function to alternate between players after each turn. Another challenge was detecting the winning condition across multiple possible combinations in a 3x3 grid.
