@@ -51,7 +51,7 @@ One of the main challenges I encountered was managing the game board state and d
 ### Why Custom Functions
 I used custom logic (e.g., `deriveActivePlayer`) for alternating players and managing turns rather than relying on pre-built libraries to keep the code simple and reusable.
 
-### Libraries and Frameworks Used
+## Libraries and Frameworks Used
 
 - **React**: Used to build the interactive user interface and manage the state of the game.
 - **React Hooks**: For state management (useState) and handling component lifecycle.
