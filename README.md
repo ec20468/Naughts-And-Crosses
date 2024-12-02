@@ -5,7 +5,8 @@ An interactive Naughts and Crosses game built with React, where two players can 
 ---
 
 ## Project Screen Shot(s)
-<img width="1133" alt="NAC" src="https://github.com/user-attachments/assets/799e8fca-fd8c-49e0-b1e1-81abe74e3af5">
+<img width="805" alt="NAC" src="https://github.com/user-attachments/assets/0d435318-4677-44bb-b9c3-066e48577378">
+
 
 ---
 
