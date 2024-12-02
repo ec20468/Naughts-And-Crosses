@@ -1,6 +1,6 @@
-## Tic-Tac-Toe Game
+## Naughts and Crosses Game
 
-An interactive Tic-Tac-Toe game built with React, where two players can take turns to place their marks ("X" or "O") on a 3x3 grid, aiming to get three marks in a row, column, or diagonal to win.
+An interactive Naughts and Crosses game built with React, where two players can take turns to place their marks ("X" or "O") on a 3x3 grid, aiming to get three marks in a row, column, or diagonal to win.
 
 ---
 
@@ -43,7 +43,7 @@ An interactive Tic-Tac-Toe game built with React, where two players can take tur
 This project was built to practice handling state management in React, and I also wanted to implement a simple game logic to improve my understanding of React hooks and component design.
 
 ### What I Set Out to Build
-I aimed to build a functional Tic-Tac-Toe game using React, focusing on applying core React concepts and software development principles. The project was designed to enhance my understanding of:
+I aimed to build a functional Naughts and Crosses game using React, focusing on applying core React concepts and software development principles. The project was designed to enhance my understanding of:
 
   - **Component-based Architecture**: Breaking the game into reusable components like `Player`, `GameBoard`, and `Log` for better organization and maintainability.
   
